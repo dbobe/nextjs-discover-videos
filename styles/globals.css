@@ -68,6 +68,10 @@ button {
   color: var(--white10)
 }
 
+svg {
+  fill: currentColor;
+}
+
 :root {
   --black: rgb(0,0,0);
   --black10: #181818;
